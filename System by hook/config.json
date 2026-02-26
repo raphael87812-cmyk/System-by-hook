@@ -1,8 +1,8 @@
 {
-  "token": "",
+  "token": "MTQ3NjcyMzM5NTI4NTQ4NzY4Ng.Grkb8-.ZK0pDerN9kzKYZp27ztmU0yadkpo1_2-ZDpqyg",
   "prefix": "+",
-  "clientId": "",
-  "developerIds": [""],
+  "clientId": "1476723395285487686",
+  "developerIds": ["807010733325811712"],
   "suggestions": {
     "suggestionsChannelId": "",
     "backgroundUrl": "https://media.discordapp.net/attachments/1414271464667873300/1435826718416965823/D8AED984D981D98AD8A7D8AA-D8A8D986D981D8B3D8ACD98A-D8B3D8A7D8AFD987-12.png?ex=690d6156&is=690c0fd6&hm=c375ee54d51624a54e70a709e9bf1fcc8a5885426eb247b56352ec2057942a96&=&format=webp&quality=lossless&width=1094&height=684",
@@ -16,21 +16,21 @@
     "logChannelId": ""
   },
   "review": {
-    "reviewChannelId": null,
+    "reviewChannelId": 1436819936969232424,
     "minLength": 5,
     "maxLength": 1000,
     "starEmoji": "⭐",
     "emptyStarEmoji": "☆"
   },
   "voice": {
-    "voiceChannelId": "",
+    "voiceChannelId": "1456657192613707916",
     "reconnectDelay": 5000
   },
   "welcome": {
     "welcomeChannelId": "",
     "imageUrl": "https://media.discordapp.net/attachments/791786825219047465/1344231381051641958/DAC9AE8F-D3C6-4DFC-B4BC-5E0EDBCB335D.gif?ex=696f4307&is=696df187&hm=bf4dc5fed3e948f6ae1e55b8faf2b09a6808c8278596c969456cb5dbf21498db&=",
-    "joinLogChannelId": "",
-    "leaveLogChannelId": ""
+    "joinLogChannelId": "1447773612613570580",
+    "leaveLogChannelId": "1447773612613570580"
   },
   "xp": {
     "levelUpChannelId": "1453897900622090381",
@@ -46,3 +46,4 @@
     "maxStartingCoins": 1000000000
   }
 }
+
